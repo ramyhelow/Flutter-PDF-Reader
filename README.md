@@ -23,7 +23,7 @@ A modern and user-friendly PDF reader application built with Flutter, allowing u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf_reader.git
+git clone https://github.com/ramyhelow/pdf_reader.git
 ```
 
 2. Navigate to the project directory:
